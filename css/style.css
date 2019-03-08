@@ -318,9 +318,9 @@ input {
   background: #fff;
 }
 
-#contact h6 {
-  text-align: right;
-  font-size: 13px;
+.navigation {
+  align: right;
+  font-size: 3px;
   
 }
 
