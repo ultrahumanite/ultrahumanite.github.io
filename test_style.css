@@ -93,7 +93,7 @@ body { background: #2f3232 url('https://imgur.com/O4TWxCX.png'); /*optional #172
 	background: url(images/moon.png) center -280px no-repeat , url(images/bs-bg.png) top left repeat-x #0C1218 ;  */
 	color: #dadada;
     -webkit-text-size-adjust: 100%;
-	font-family: Fira Sans, Lucida, Arial, sans-serif;
+	font-family:"SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial" sans-serif;
 	font-size: 10pt;
 	margin-bottom: 0;
 	-webkit-font-smoothing: antialiased;
@@ -394,7 +394,7 @@ input[type="text"] {
 input,
 select,
 textarea {
-	font-family: Fira Sans, Lucida Grande, Lucida, Arial, sans-serif;
+	font-family:"SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial" sans-serif;
 	font-size: 1em;
 	border: 1px solid #202427;
 	border-bottom-right-radius: 9px;
@@ -1412,7 +1412,7 @@ code {
 	position: relative;
 }
 code, pre {
-	font-family: "Fira Mono", 'Source Code Pro', Consolas,  monospace;
+	font-family:"SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial" sans-serif;
     display: inline;
     padding: .2625em .55em;
     margin: .130em;
@@ -2713,7 +2713,7 @@ h3 {
 	color: #999999;
 	padding: 3px;
 	border: 1px solid #9C9C9C !important;
-	font-family: Fira Sans, Lato, Lucida Grande,Lucida,Arial,sans-serif;
+	font-family:"SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial" sans-serif;
 }
 .OiNK #MySpacePlayer object {
 	width: 450px;
