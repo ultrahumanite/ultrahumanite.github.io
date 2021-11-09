@@ -84,11 +84,9 @@
     font-weight: 600;
     font-style: normal;
 }
-/* experiments with Source Code Pro font */
-@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro);
 
 /*	BODY	*/
-body { background: #2f3232 url('https://imgur.com/O4TWxCX.png'); /*optional #17242d*/
+body { background: #2f3232; /*optional #17242d*/
 	/* DOUBLE IMAGE MOON AND BG (for halloween)
 	background: url(images/moon.png) center -280px no-repeat , url(images/bs-bg.png) top left repeat-x #0C1218 ;  */
 	color: #dadada;
@@ -269,7 +267,7 @@ a img {
 	padding: 42px 0 20px 0;
 	color: #bebebe;
 	text-align: left;
-	background: #151719 url('https://imgur.com/SzltUMf.png'); /*url('images/footer_bg.png') top left repeat-x */;
+	background: #151719; /*url('images/footer_bg.png') top left repeat-x */;
 	position: relative;
 	margin: -22px auto 20px auto;
 	z-index: -1;
@@ -294,7 +292,7 @@ a img {
 	padding-left: 3px;
 }
 #footer p:first-child {
-	background: url('https://dl.dropbox.com/s/7e8up3smr3q94s3/bs-apple.png') 25px 0 no-repeat;
+	
 	padding: 0 0 0 100px;
 	border: 0;
 	width: 180px;
